@@ -1,7 +1,7 @@
 # Real Time Bus Tracker
 ## Exercise on Boston Bus Tracker
 <img src= "BostonBusTracker.png" width='300'/>
-This map demonstrates a real-time animation that tracks the movements of Boston buses every 15 seconds. I have used Google's night mode style for this live animated bus tracker. To run this on your machine, you'll need all of these files and you'll need to load the .html file onto your browser. Additional functionality that would be helpful to a user would be to change the code for the style to automatically switch to day mode when it is daylight in Boston.
+This map demonstrates a real-time animation that tracks the movements of Boston buses every 15 seconds. I have used Google's night mode style for this live animated bus tracker. To run this on your machine, you'll need all of these files and you'll need to load the .html file onto your browser (NOTE: API keys are currently not present in code. They are needed to run the code). Additional functionality that would be helpful to a user for future iterations would be to change the code for the style to automatically switch to day mode when it is daylight in Boston.
 <br>
 </br>
 LICENSE: Copyright (c) [2023] Yvette Watson. Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
